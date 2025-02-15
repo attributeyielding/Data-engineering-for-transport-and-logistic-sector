@@ -1,0 +1,2 @@
+# Data-engineering-for-transport-and-logistic-sector
+ This GitHub repository is dedicated to providing comprehensive resources, tools, and best practices for implementing data engineering solutions tailored specifically for the transport and logistics sector. It aims to address the unique challenges faced by this industry, such as real-time tracking, supply chain optimization, demand forecasting, route planning, and fleet management.
