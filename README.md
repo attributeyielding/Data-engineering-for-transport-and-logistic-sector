@@ -124,5 +124,5 @@ For a detailed schema definition, refer to the `schema.sql` file in this reposit
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/transport-logistics-analysis.git
+   git clone https://github.com/attributeyielding/transport-logistics-analysis.git
    cd transport-logistics-analysis
