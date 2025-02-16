@@ -5,10 +5,7 @@
 2. [Database Schema Overview](#database-schema-overview)
 3. [Analysis Categories](#analysis-categories)
 4. [Setup Instructions](#setup-instructions)
-5. [Dependencies](#dependencies)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 
